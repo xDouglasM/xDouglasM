@@ -17,9 +17,8 @@ Atuo no desenvolvimento de sistemas e infraestrutura de TI, buscando criar solu�
 
 - 🏥 Atuo em **TI municipal na Secretaria de Saúde**, dando suporte a UBS, HMED, UPA, CAPS e CEREST
 - 🌐 No dia a dia trabalho com **infraestrutura de redes** (MikroTik, VPN WireGuard/IPSec), **administração de servidores** (Windows Server, Active Directory, RDS) e **sistemas de informação em saúde** (e-SUS PEC/APS, e-SUS centralizador)
-- 💻 Também desenvolvo e mantenho módulos de sistemas internos, com foco atual no **módulo de Transporte** de um sistema de gestão de saúde (Laravel + Inertia/React)
-- ☁️ Gerencio ambiente híbrido: infraestrutura legada on-premises + ambiente cloud com Docker/EasyPanel
-- 🐍 Estou expandindo para projetos em **Python**, que pretendo compartilhar por aqui em breve
+- 💻 Também desenvolvo e mantenho módulos de sistemas internos, com foco atual no **módulo de Transporte** de um sistema de gestão de saúde (Laravel + Inertia/React) com ajuda da IA.
+- 🐍 Python para automação
 
 ---
 
