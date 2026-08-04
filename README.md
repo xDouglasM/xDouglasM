@@ -51,11 +51,24 @@ Refatoração do módulo de Transporte dentro de um sistema municipal de saúde 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xDouglasM&theme=redical" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xDouglasM&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xDouglasM&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDouglasM&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xDouglasM&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xDouglasM&theme=radical&no-frame=true&row=1&column=6" alt="Troféus GitHub"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xDouglasM&label=Visualizações+no+perfil&color=blueviolet&style=flat" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=xDouglasM&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
 </p>
