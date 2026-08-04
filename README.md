@@ -72,3 +72,15 @@ Refatoração do módulo de Transporte dentro de um sistema municipal de saúde 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xDouglasM&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
 </p>
+---
+### 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xDouglasM/xDouglasM/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xDouglasM/xDouglasM/output/github-contribution-grid-snake.svg">
+  <img alt="Animação do Snake" src="https://raw.githubusercontent.com/xDouglasM/xDouglasM/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xDouglasM&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
+</p>
