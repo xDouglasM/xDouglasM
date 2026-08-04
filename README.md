@@ -1,8 +1,9 @@
 <h1 align="center">Olá, eu sou o Douglas 👋</h1>
 
 <p align="center">
-  Analista de TI na área da saúde pública, atuando entre infraestrutura de redes e desenvolvimento de sistemas
-</p>
+ 💻 Analista de Sistemas | Software Engineer
+
+Atuo no desenvolvimento de sistemas e infraestrutura de TI, buscando criar soluções que simplifiquem processos e gerem impacto no serviço público.
 
 <p align="center">
   <a href="mailto:douglas.monteiro01@gmail.com">
