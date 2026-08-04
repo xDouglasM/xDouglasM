@@ -15,16 +15,16 @@ Atuo no desenvolvimento de sistemas e infraestrutura de TI, buscando criar solu�
 
 ### 🧑‍💻 Sobre mim
 
-- 🏥 Atuo em **TI municipal na Secretaria de Saúde**, dando suporte a UBS, HMED, UPA, CAPS e CEREST
+- 🏥 Atualmente sou coordenador de **TI na Secretaria de Saúde da cidade de Aracati - CE**.
 - 🌐 No dia a dia trabalho com **infraestrutura de redes** (MikroTik, VPN WireGuard/IPSec), **administração de servidores** (Windows Server, Active Directory, RDS) e **sistemas de informação em saúde** (e-SUS PEC/APS, e-SUS centralizador)
 - 💻 Também desenvolvo e mantenho módulos de sistemas internos, com foco atual no **módulo de Transporte** de um sistema de gestão de saúde (Laravel + Inertia/React) com ajuda da IA.
-- 🐍 Python para automação
+- 🐍 Python para automação para produtividade. (bots de automação de processos).
 
 ---
 
 ### 🚀 Projeto em destaque
 
-**Módulo Transporte — Sistema de Gestão em Saúde**
+**Módulo Transporte (Vibe code) — Sistema de Gestão em Saúde**
 Refatoração do módulo de Transporte dentro de um sistema municipal de saúde (Laravel + Inertia/React), que gerencia motoristas, veículos, viagens, solicitações de transporte, pacientes e hospitais — integrado a outros módulos do sistema como agendamentos, fila de espera, atendimentos e finanças.
 
 - 🔧 Refatoração de Controllers com Form Requests dedicados (Store/Update), mensagens e atributos em português
