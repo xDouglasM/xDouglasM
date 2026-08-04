@@ -1,9 +1,12 @@
-<h1 align="center">Olá, eu sou o Douglas 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Douglas%20Monteiro&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Infraestrutura%20%2B%20Desenvolvimento%20na%20Sa%C3%BAde%20P%C3%BAblica&descAlignY=65&descSize=18" alt="Header"/>
 
 <p align="center">
- 💻 Analista de Sistemas | Software Engineer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas+%7C+Software+Engineer;Redes+%7C+Servidores+%7C+Sistemas+de+Sa%C3%BAde;Python+para+automa%C3%A7%C3%A3o+e+produtividade" alt="Typing SVG"/>
+</p>
 
-Atuo no desenvolvimento de sistemas e infraestrutura de TI, buscando criar soluções que simplifiquem processos e gerem impacto no serviço público.
+<p align="center">
+  Atuo no desenvolvimento de sistemas e infraestrutura de TI, buscando criar soluções que simplifiquem processos e gerem impacto no serviço público.
+</p>
 
 <p align="center">
   <a href="mailto:douglas.monteiro01@gmail.com">
@@ -15,10 +18,10 @@ Atuo no desenvolvimento de sistemas e infraestrutura de TI, buscando criar solu�
 
 ### 🧑‍💻 Sobre mim
 
-- 🏥 Atualmente sou coordenador de **TI na Secretaria de Saúde da cidade de Aracati - CE**.
+- 🏥 Atualmente sou coordenador de **TI na Secretaria de Saúde da cidade de Aracati - CE**
 - 🌐 No dia a dia trabalho com **infraestrutura de redes** (MikroTik, VPN WireGuard/IPSec), **administração de servidores** (Windows Server, Active Directory, RDS) e **sistemas de informação em saúde** (e-SUS PEC/APS, e-SUS centralizador)
-- 💻 Também desenvolvo e mantenho módulos de sistemas internos, com foco atual no **módulo de Transporte** de um sistema de gestão de saúde (Laravel + Inertia/React) com ajuda da IA.
-- 🐍 Python para automação para produtividade. (bots de automação de processos).
+- 💻 Também desenvolvo e mantenho módulos de sistemas internos, com foco atual no **módulo de Transporte** de um sistema de gestão de saúde (Laravel + Inertia/React) com ajuda da IA
+- 🐍 Python para automação para produtividade (bots de automação de processos)
 
 ---
 
@@ -69,10 +72,6 @@ Refatoração do módulo de Transporte dentro de um sistema municipal de saúde 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xDouglasM&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
-</p>
----
 ### 🐍 Contribuições
 
 <picture>
@@ -81,6 +80,10 @@ Refatoração do módulo de Transporte dentro de um sistema municipal de saúde 
   <img alt="Animação do Snake" src="https://raw.githubusercontent.com/xDouglasM/xDouglasM/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xDouglasM&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
